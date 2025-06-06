@@ -3,3 +3,5 @@
 
 # Text files
 *.txt 
+
+*.DS_Store
