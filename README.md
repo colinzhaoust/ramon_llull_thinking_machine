@@ -19,13 +19,38 @@ Domain (B): some domains of tasks people work on, e.g., argument mining.
 
 Architecture (C): some architecture of the research, e.g., Mamba
 
+There are other components to make sure control the expressions:
+
+Template: a template to organize the idea, e.g., Comparing C1 and C2 in B under A
+
+Prompt: a prompt to ask the LLM to polish a template into a research paper title.
 
 ## Sources of the concept discs
+A seed set from the authors experience.
 
-Seed set, crowdsourced from expert researchers, and mined from OpenReview
 
+## Demo
+You can check **./main.ipynb** or copy the generated prompt to the Chatbot Web Interface.
+
+## To-dos:
+1. Fetch the components from experts and OpenReview data;
+2. Create advanced templates and use co-occurrence to steer the sampling;
+3. Add fancy punchlines within A,B,C or as a separate D, e.g., xxx is all you need
 
 ## Discussion
+1. **Important** The quality and the completeness of an idea is orthoganal to if it can be covered by this Ramon Llull's Thinking Machine of Idealization since given the same A+B+C. the angles and depth of the analysis and findings can be very different.
+2. This tool is not designed to DDoS the conference review system or detect if certain papers are AI-generated.
+
+
+## Research Questions and Analysis
+R1. The precision and recall of the generated ideas with the actual *CL or ML Conference papers;
+R2. How much novelty can we get from these ideas (human annotation);
+R3. What are patterns of the out-of-box ideas in the conferences beyond the Ramon Llull's thinking machine.
+
+A1: Self-evolve Ramon Llull's thinking machine;
+A2: The variance of the out-of-box ideas in the conferences vs. the in-box generatable ideas;
+A3: How to classify trivial/meaningful doable/undoable ideas generated?
+A4: Analyze the paradigm shift (research trends) through the years with this tool
 
 
 ## Interested?

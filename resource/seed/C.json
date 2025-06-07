@@ -1,8 +1,11 @@
 [
-  ["transformer"],
   ["mamba"],
   ["RL"],
   ["linear models"],
   ["KV"],
-  ["quantization"]
+  ["quantization"],
+  ["optimal transport"],
+  ["diffusion"],
+  ["self-attention"],
+  ["self-supervision"]
 ]
