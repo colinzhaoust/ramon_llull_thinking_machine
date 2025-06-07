@@ -49,10 +49,10 @@ Research questions:
 3. What are patterns of the out-of-box ideas in the conferences beyond the Ramon Llull's thinking machine.
 
 Analysis
-1: Self-evolve Ramon Llull's thinking machine;
-2: The variance of the out-of-box ideas in the conferences vs. the in-box generatable ideas;
-3: How to classify trivial/meaningful doable/undoable ideas generated?
-14: Analyze the paradigm shift (research trends) through the years with this tool
+1. Self-evolve Ramon Llull's thinking machine;
+2. The variance of the out-of-box ideas in the conferences vs. the in-box generatable ideas;
+3. How to classify trivial/meaningful doable/undoable ideas generated?
+4. Analyze the paradigm shift (research trends) through the years with this tool
 
 
 ## Interested?
