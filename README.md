@@ -13,17 +13,17 @@ In this project, we aim to create vibe research paper titles in a Ramon Llull's 
 ## The Holy Discs:
 At the current stage of the project, we identify three discs of concepts:
 
-Theme (A): some themes of research direction, e.g., few-shot.
+1. Theme (A): some themes of research direction, e.g., few-shot.
 
-Domain (B): some domains of tasks people work on, e.g., argument mining.
+2. Domain (B): some domains of tasks people work on, e.g., argument mining.
 
-Architecture (C): some architecture of the research, e.g., Mamba
+3. Architecture (C): some architecture of the research, e.g., Mamba
 
 There are other components to make sure control the expressions:
 
-Template: a template to organize the idea, e.g., Comparing C1 and C2 in B under A
+1. Template: a template to organize the idea, e.g., Comparing C1 and C2 in B under A
 
-Prompt: a prompt to ask the LLM to polish a template into a research paper title.
+2. Prompt: a prompt to ask the LLM to polish a template into a research paper title.
 
 ## Sources of the concept discs
 A seed set from the authors experience.
@@ -43,14 +43,16 @@ You can check **./main.ipynb** or copy the generated prompt to the Chatbot Web I
 
 
 ## Research Questions and Analysis
-R1. The precision and recall of the generated ideas with the actual *CL or ML Conference papers;
-R2. How much novelty can we get from these ideas (human annotation);
-R3. What are patterns of the out-of-box ideas in the conferences beyond the Ramon Llull's thinking machine.
+Research questions:
+1. The precision and recall of the generated ideas with the actual *CL or ML Conference papers;
+2. How much novelty can we get from these ideas (human annotation);
+3. What are patterns of the out-of-box ideas in the conferences beyond the Ramon Llull's thinking machine.
 
-A1: Self-evolve Ramon Llull's thinking machine;
-A2: The variance of the out-of-box ideas in the conferences vs. the in-box generatable ideas;
-A3: How to classify trivial/meaningful doable/undoable ideas generated?
-A4: Analyze the paradigm shift (research trends) through the years with this tool
+Analysis
+1: Self-evolve Ramon Llull's thinking machine;
+2: The variance of the out-of-box ideas in the conferences vs. the in-box generatable ideas;
+3: How to classify trivial/meaningful doable/undoable ideas generated?
+14: Analyze the paradigm shift (research trends) through the years with this tool
 
 
 ## Interested?
