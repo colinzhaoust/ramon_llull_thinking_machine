@@ -17,7 +17,7 @@ Theme (A): some themes of research direction, e.g., few-shot.
 
 Domain (B): some domains of tasks people work on, e.g., argument mining.
 
-Architecture (C)
+Architecture (C): some architecture of the research, e.g., Mamba
 
 
 ## Sources of the concept discs
